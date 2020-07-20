@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "dependencies": {
     "axios": "^0.19.2",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "serverless": "^1.67.0",
